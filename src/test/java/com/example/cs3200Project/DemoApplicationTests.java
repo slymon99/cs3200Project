@@ -1,4 +1,4 @@
-package com.example.cs3200fall2020team12;
+package com.example.cs3200Project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
